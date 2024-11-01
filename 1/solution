@@ -1,0 +1,5 @@
+GET /users HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Accept: application/json
+User-Agent: curl/7.68.0
